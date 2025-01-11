@@ -1,10 +1,10 @@
 #include<bits/stdc++.h>
 using namespace std;
 #define ll long long
-#define vll vector <ll>
-#define vvi vector<vector<int>>
-#define vpll vector<pair<ll, ll>>
 #define pll pair<ll, ll>
+#define vll vector <ll>
+#define vpll vector<pair<ll, ll>>
+#define vvll vector<vector<ll>>
 #define yes cout << "YES" << endl
 #define no cout << "NO" << endl
     
