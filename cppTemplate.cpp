@@ -7,12 +7,14 @@ using namespace std;
 #define vvll vector<vector<ll>>
 #define yes cout << "YES" << endl
 #define no cout << "NO" << endl
+#define all(c) (c).begin(), (c).end()
+#define for(n) for(ll i = 0; i < (n); i++)
     
 void solve() {
     ll n; cin >> n;
     vll arr(n);
-    for(ll i=0; i<n; i++) {cin >> arr[i];}
-    //sort(arr.begin(), arr.end());
+    for(n) { cin >> arr[i]; }
+    //sort(all(arr));
 }
     
 int main() {
